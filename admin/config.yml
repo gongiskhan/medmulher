@@ -5,3 +5,11 @@ backend:
 media_folder: "images"
 
 collections:
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "Home Page"
+        name: "index"
+        file: "index.html"
+        fields:
+          - {label: Title, name: title, widget: string}
