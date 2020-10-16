@@ -11,6 +11,6 @@ collections:
     files:
       - label: "Home Page"
         name: "index"
-        file: "index.html"
+        file: "index.yml"
         fields:
           - {label: Title, name: title, widget: string}
