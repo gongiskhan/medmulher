@@ -3,3 +3,5 @@ backend:
   branch: master
 
 media_folder: "images"
+
+collections:
